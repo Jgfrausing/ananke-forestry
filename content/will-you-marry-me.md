@@ -4,7 +4,7 @@ description = "please say yes"
 disable_share = false
 featured_image = "/images/ae5bd5ab-fd91-4eb1-82eb-28b1c24adde1.jpeg"
 tags = ["scene"]
-title = "Will you marry me?"
+title = "Will you marry me? yes"
 [menu.main]
 name = "Click me"
 weight = 2
